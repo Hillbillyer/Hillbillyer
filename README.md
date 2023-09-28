@@ -5,7 +5,7 @@ I'm keen to learn about anything and everything.<br>
 - ✉️ Reach me at contact@hillbillyer.net !
 <br>
 These are my publicly available Game Servers:<br>
-🟢 [CS:GO](https://server.hillbillyer.net) <br>
+🟢 CS:GO <br>
 🔴 Day of Infamy <br>
 🔴 Factorio <br>
 🔴 Garry's Mod <br>
