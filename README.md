@@ -7,10 +7,7 @@ I'm keen to learn about anything and everything.<br>
 These are my publicly available Game Servers:
 
 <br>
-<iframe
-  src="https://server.hillbillyer.net"
-  style="width:100%; height:300px;"
-></iframe>
+https://server.hillbillyer.net/servers.html
 
 <!---
 Hillbillyer/Hillbillyer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
