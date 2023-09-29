@@ -48,6 +48,21 @@ img {
     height: 500px;
 }
 
+.twitch {
+    position: absolute;
+    top: 0;
+    bottom: -300px;
+    right: 2%;
+    margin: auto;
+}
+
+.chat {
+    position: absolute;
+    top: 2%;
+    right: 2%;
+    margin: auto;
+}
+
 </style>
 <meta charset="UTF-8"/>
 <meta name="viewport" content="width=device-width,initial-scale=1"/>
@@ -68,6 +83,19 @@ img {
 
     <div>
         <img src="/Admin.png" alt="Hacker Man">
+    </div>
+
+    <div>
+        <iframe class="twitch" src="https://player.twitch.tv/?channel=hillbillyer&parent=hillbillyer.net" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+    </div>
+
+    <div>
+        <iframe class="chat"
+            id="chat_embed"
+            src="https://www.twitch.tv/embed/hillbillyer/chat?parent=hillbillyer.net"
+            height="400"
+            width="350">
+        </iframe>
     </div>
 
     <div class="s">
