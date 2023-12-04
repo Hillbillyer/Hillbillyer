@@ -5,14 +5,10 @@
 
 <br>
 These are my publicly available Game Servers:<br>
-🟢 CS:GO <br>
-🔴 Day of Infamy <br>
-🔴 Factorio <br>
-🔴 Garry's Mod <br>
-🔴 Left 4 Dead 2 <br>
-🔴 Natural Selection 2 <br>
-🔴 Insurgency: Sandstorm <br>
-🔴 TeamSpeak <br>
+🟢 CS2 *hillbillyer.net:27015*<br>
+🟢 Insurgency: Sandstorm <br>
+🟢 Minecraft <br>
+🟢 TeamSpeak <br>
 
 <br>
 https://server.hillbillyer.net/ <br>
