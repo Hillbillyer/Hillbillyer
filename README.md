@@ -5,7 +5,7 @@
 
 <br>
 These are my publicly available Game Servers:<br>
-🟢 CS2 *hillbillyer.net:27015*<br>
+🟢 CS2 <em>hillbillyer.net:27015</em> <br>
 🟢 Insurgency: Sandstorm <br>
 🟢 Minecraft <br>
 🟢 TeamSpeak <br>
